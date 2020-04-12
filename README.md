@@ -11,3 +11,7 @@ Problems:
 - Piek - Bubble Cup 2018
 - Seedlings - Bubble Cup 2018
 - Slideshow - Google Hashcode 2019
+- Book Scanning - Google Hashcode 2020
+- Open Spaces - Reply Challenge 2020
+- Imrec - CodeIT 2020
+
