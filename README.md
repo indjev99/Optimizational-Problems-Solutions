@@ -14,4 +14,5 @@ Problems:
 - Book Scanning - Google Hashcode 2020
 - Open Spaces - Reply Challenge 2020
 - Imrec - CodeIT 2020
-
+- Assembling Smaphones - Google Hashcode 2020
+- Closing down Railway Lines - Bubble Cup 2020
