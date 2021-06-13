@@ -19,3 +19,4 @@ Problems:
 - Minority Report - CodeIT 2019
 - Traffic Signaling - Google Hashcode 2021
 - Cheating - CodeIT 2020
+- Pattern - CodeIT 2020
