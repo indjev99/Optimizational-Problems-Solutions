@@ -21,3 +21,5 @@ Problems:
 - Cheating - CodeIT 2020
 - Pattern - CodeIT 2020
 - Printing - CodeIT 2021
+- New Year - CodeIT 2021
+- Mentorship and Teamwork - Google Hashcode 2022
