@@ -32,4 +32,6 @@ Problems:
 - Snakes - Reply Challenge 2023
 - Reconstruct - Action Christmas Competition 2023
 - Colorful - Action Christmas Competition 2024
+- Green Revolution - Reply Challenge 2025
+- Cleaning Up - AtCoder Heuristic Contest 044
 
