@@ -34,4 +34,4 @@ Problems:
 - Colorful - Action Christmas Competition 2024
 - Green Revolution - Reply Challenge 2025
 - Cleaning Up - AtCoder Heuristic Contest 044
-
+- Splatter - Action Christmas Competition 2025
